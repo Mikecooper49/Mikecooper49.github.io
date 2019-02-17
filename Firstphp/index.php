@@ -1,10 +1,3 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Mike
- * Date: 2019-02-17
- * Time: 17:26
- */
 
 <!DOCTYPE html>
 <html>
